@@ -1,0 +1,8 @@
+name = "self-bot"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "self-bot-db"
+database_id = "97c8bd17-9c3b-47b8-9a92-f44f84aa4e0d"
